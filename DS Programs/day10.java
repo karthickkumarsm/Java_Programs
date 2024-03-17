@@ -26,4 +26,4 @@ public class day10 {
     }
 }
 
-//trim() method logic
+//trim() method logic-java
