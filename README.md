@@ -4,7 +4,7 @@ Java Program Practice - Practice DSA daily
 
 
 ## Project Description
-* A DSA related program repository
+* A DSA oriented programs repository
 * Utilized Java language
 * Improving my DSA skills by practicing daily
 * Improves my knowledge in coding
