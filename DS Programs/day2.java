@@ -1,3 +1,4 @@
+//remove extra spaces from the between sentence
 public class day2 {
     public static void main(String[] args) {
         String a="Hardwork        never          fails";

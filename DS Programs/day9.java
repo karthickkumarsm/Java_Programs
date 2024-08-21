@@ -27,3 +27,5 @@ public class day9 {
         }
     }
 }
+
+//whether string is there are not

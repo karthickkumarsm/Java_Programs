@@ -1,3 +1,6 @@
+//hexadecimal to binary
+
+
 public class day23 {
     static void HexToBin(char hexdec[])
     {

@@ -1,5 +1,5 @@
 /**
- * day6
+ * day6 Anagram
  */
 public class day6 {
     public static void main(String[] args) {
