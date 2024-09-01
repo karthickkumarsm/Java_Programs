@@ -24,6 +24,7 @@ public class day25 {
             space++;
         }
     }
+    
     public static void main(String[] args) 
     {
         printDiamond(5);
