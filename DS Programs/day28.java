@@ -11,3 +11,5 @@ public class day28 {
         System.out.println(h*en);
     }
 }
+
+//accenture 2nd sum : final height
