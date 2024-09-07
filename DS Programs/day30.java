@@ -22,4 +22,4 @@ public class day30 {
     }
 }
 
-//accneture 4th sum : Sum XOR
+//accneture 4th problem : Sum XOR
