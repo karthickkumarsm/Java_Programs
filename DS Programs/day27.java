@@ -15,7 +15,7 @@ public class day27 {
             }
         }
         System.out.println(count);
-        sc.close();
+       sc.close(); 
     }
 }
 
