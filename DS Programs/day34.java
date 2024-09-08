@@ -4,10 +4,7 @@ public class day34 {
     public static void main(String[] args){
         //write your code here
         Scanner sc = new Scanner(System.in);
-
         int n = sc.nextInt();
-
-
         System.out.println(fibo(n));
     }
     public static int fibo(int n){
