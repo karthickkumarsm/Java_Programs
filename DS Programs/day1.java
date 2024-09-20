@@ -14,3 +14,5 @@ public class day1{
         System.out.println(big);
     }
 }
+
+//biggest number
