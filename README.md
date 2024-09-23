@@ -1,6 +1,6 @@
 
 # Project Title
-Java Program Practice - Practice DSA daily
+Java Program Practice - Practicing DSA daily
 
 
 ## Project Description
